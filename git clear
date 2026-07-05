@@ -1,0 +1,63 @@
+[33mcommit d1943ea45540c9a1a83d1015fb5f8dd432e89578[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 8fad0c1 0520942
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 23:30:15 2026 +0530
+
+    added both features
+
+[33mcommit 8fad0c1b62377e1c95d328af69af6bd673471b1c[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 23:26:45 2026 +0530
+
+    added dropdown
+
+[33mcommit 052094236e50e72b38e04ebd084f74e6de4c8590[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 23:25:46 2026 +0530
+
+    added a buttong
+
+[33mcommit beb7640039c8bf8cabb3dc30783d363291402bca[m
+Merge: 275e3ba 24793e1
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 23:17:43 2026 +0530
+
+    Merge pull request #1 from sssisodia11/feature1
+    
+    this is for feature1
+
+[33mcommit 24793e1ca6a532336a320152f054a4d096ad45a9[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 23:10:07 2026 +0530
+
+    this is for feature1
+
+[33mcommit 275e3ba2057bf42048284eb7ed8f384a82a70c81[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 21:00:53 2026 +0530
+
+    updated twicw
+
+[33mcommit fd76bfdcc07995f97caf52a6f7f940bc31099005[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 20:57:55 2026 +0530
+
+    added readme file
+
+[33mcommit de065d16931687611d63af60bb20394eab9e8f55[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 20:55:53 2026 +0530
+
+    updated html now
+
+[33mcommit 3a00b3967b131824028047f763093cedaa85b06c[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 20:52:54 2026 +0530
+
+    updated now
+
+[33mcommit 1d27bc3457d9230aee6e8b4465501e1ce845c2fe[m
+Author: sssisodia11 <sss11aug@gmail.com>
+Date:   Sun Jul 5 20:35:14 2026 +0530
+
+    add initial files
